@@ -515,11 +515,11 @@
   "@aboutButton": {
     "description": "About dialog button"
   },
-  "loginSlogan1": "Get the most out of ",
+  "loginSlogan1": "Get the most out of the ",
   "@loginSlogan1": {
     "description": "Login slogan part 1"
   },
-  "loginSlogan2": "Bluesky",
+  "loginSlogan2": "Atmosphere",
   "@loginSlogan2": {
     "description": "Login slogan part 2"
   },
@@ -1826,5 +1826,53 @@
   "threadgateFollowers": "Your followers",
   "@threadgateFollowers": {
     "description": "Option that allows your followers to reply to your post"
+  },
+  "settingsShowVerified": "Show verified badge",
+  "@settingsShowVerified": {
+    "description": "toggle setting for showing the verified badge"
+  },
+  "reconnectSecondaryAccount": "Your secondary account might have been disconnected. Click the button below to login again with it.",
+  "@reconnectSecondaryAccount": {
+    "description": "Text for when it takes longer than 5 seconds to load a column for a secondary account"
+  },
+  "reconnectButton": "Reconnect",
+  "@reconnectButton": {
+    "description": "Reconnect button text"
+  },
+  "updateInteractionSettings": "Make default",
+  "@updateInteractionSettings": {
+    "description": "Toggle for updating the interaction settings remotely, syncing with bsky.app"
+  },
+  "moreButton": "More",
+  "@moreButton": {
+    "description": "Generic 'More' options button"
+  },
+  "notificationLikeViaRepostTitle": "Liked repost",
+  "@notificationLikeViaRepostTitle": {
+    "description": "Notification like via repost"
+  },
+  "notificationRepostViaRepostTitle": "Reposted repost",
+  "@notificationRepostViaRepostTitle": {
+    "description": "Notification repost via repost"
+  },
+  "notificationLikeViaRepostReason": "{count, plural, other{liked your repost}}",
+  "@notificationLikeViaRepostReason": {
+    "description": "Notification like via repost reason"
+  },
+  "notificationRepostViaRepostReason": "{count, plural, other{reposted your repost}}",
+  "@notificationRepostViaRepostReason": {
+    "description": "Notification repost via repost reason"
+  },
+  "profilePageTypeSetting": "Default profile tab",
+  "@profilePageTypeSetting": {
+    "description": "Profile tab setting for the user column"
+  },
+  "profileTabBarSetting": "Hide profile tabs",
+  "@profileTabBarSetting": {
+    "description": "Profile tab visibility setting for the user column"
+  },
+  "pinnedPost": "Pinned post",
+  "@pinnedPost": {
+    "description": "Pinned post badge"
   }
 }
