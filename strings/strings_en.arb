@@ -1283,10 +1283,6 @@
   "@mutedPost": {
     "description": "Disclaimer that shows in a post by a muted user"
   },
-  "blockedPost": "Post by blocked user",
-  "@blockedPost": {
-    "description": "Disclaimer that shows in a post by a blocked user"
-  },
   "threadgateHeader": "Who can reply?",
   "@threadgateHeader": {
     "description": "Threadgate dialog header"
@@ -1874,5 +1870,17 @@
   "pinnedPost": "Pinned post",
   "@pinnedPost": {
     "description": "Pinned post badge"
+  },
+  "deletedPost": "Deleted post",
+  "@deletedPost": {
+    "description": "Deleted post embed"
+  },
+  "detachedPost": "Detached by author",
+  "@detachedPost": {
+    "description": "Detached post embed"
+  },
+  "blockedUser": "Blocked user",
+  "@blockedPost": {
+    "description": "Blocked post embed"
   }
 }

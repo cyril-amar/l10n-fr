@@ -320,7 +320,6 @@
   "viewButton": "Afficher",
   "hideButton": "Masquer",
   "mutedPost": "Message posté par un compte masqué",
-  "blockedPost": "Message posté par un compte bloqué",
   "threadgateHeader": "Qui peut répondre ?",
   "threadgateOptions": "Ou combiner ces options :",
   "postErrorThreadgate": "Votre post a été créé mais les limitations de réponses n'ont pas été appliquées.",
