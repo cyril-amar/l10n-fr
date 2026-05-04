@@ -466,5 +466,8 @@
   "notificationRepostViaRepostReason": "{count, plural, one{a reposté votre repost}, other{ont reposté votre repost}}",
   "profilePageTypeSetting": "Onglet de profil par défaut",
   "profileTabBarSetting": "Masquer les onglets de profil",
-  "pinnedPost": "Post épinglé"
+  "pinnedPost": "Post épinglé",
+  "deletedPost": "Post supprimé",
+  "detachedPost": "Détaché par son auteur",
+  "blockedUser": "Utilisateur bloqué"
 }
