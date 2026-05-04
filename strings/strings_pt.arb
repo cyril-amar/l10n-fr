@@ -320,7 +320,6 @@
   "viewButton": "Ver",
   "hideButton": "Esconder",
   "mutedPost": "Post por usuário mutado",
-  "blockedPost": "Post por usuário bloqueado",
   "threadgateHeader": "Quem pode responder?",
   "threadgateOptions": "Ou combine estas opções:",
   "postErrorThreadgate": "Seu post foi criado, mas as regras de resposta não foram aplicadas.",
@@ -466,5 +465,8 @@
   "notificationRepostViaRepostReason": "{count, plural, other{repostou seu repost}}",
   "profilePageTypeSetting": "Aba padrão pro perfil",
   "profileTabBarSetting": "Esconder abas do perfil",
-  "pinnedPost": "Post fixado"
+  "pinnedPost": "Post fixado",
+  "deletedPost": "Post deletado",
+  "detachedPost": "Removido pelo autor",
+  "blockedUser": "Usuário bloqueado"
 }
