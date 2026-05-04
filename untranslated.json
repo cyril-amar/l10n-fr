@@ -11,7 +11,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "uk": [
     "settingsShowVerified",
@@ -25,7 +28,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "id": [
     "embedTypeText",
@@ -94,7 +100,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "be": [
     "embedTypeText",
@@ -102,7 +111,6 @@
     "viewButton",
     "hideButton",
     "mutedPost",
-    "blockedPost",
     "threadgateHeader",
     "threadgateOptions",
     "postErrorThreadgate",
@@ -249,7 +257,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "pt": [
     "scheduledSortTypeSetting"
@@ -332,7 +343,6 @@
     "viewButton",
     "hideButton",
     "mutedPost",
-    "blockedPost",
     "threadgateHeader",
     "threadgateOptions",
     "postErrorThreadgate",
@@ -479,7 +489,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "ko": [
     "embedTypeText",
@@ -522,7 +535,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "fi": [
     "embedTypeText",
@@ -601,7 +617,6 @@
     "viewButton",
     "hideButton",
     "mutedPost",
-    "blockedPost",
     "threadgateHeader",
     "threadgateOptions",
     "postErrorThreadgate",
@@ -748,7 +763,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "ja": [
     "settingsShowVerified",
@@ -762,7 +780,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "ru": [
     "embedTypeText",
@@ -841,7 +862,6 @@
     "viewButton",
     "hideButton",
     "mutedPost",
-    "blockedPost",
     "threadgateHeader",
     "threadgateOptions",
     "postErrorThreadgate",
@@ -988,7 +1008,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "de": [
     "embedTypeText",
@@ -1072,7 +1095,6 @@
     "viewButton",
     "hideButton",
     "mutedPost",
-    "blockedPost",
     "threadgateHeader",
     "threadgateOptions",
     "postErrorThreadgate",
@@ -1219,7 +1241,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "es": [
     "embedTypeText",
@@ -1267,7 +1292,6 @@
     "viewButton",
     "hideButton",
     "mutedPost",
-    "blockedPost",
     "threadgateHeader",
     "threadgateOptions",
     "postErrorThreadgate",
@@ -1414,7 +1438,10 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ],
   "ca": [
     "embedTypeText",
@@ -1462,7 +1489,6 @@
     "viewButton",
     "hideButton",
     "mutedPost",
-    "blockedPost",
     "threadgateHeader",
     "threadgateOptions",
     "postErrorThreadgate",
@@ -1609,6 +1635,9 @@
     "notificationRepostViaRepostReason",
     "profilePageTypeSetting",
     "profileTabBarSetting",
-    "pinnedPost"
+    "pinnedPost",
+    "deletedPost",
+    "detachedPost",
+    "blockedUser"
   ]
 }
